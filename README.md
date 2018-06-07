@@ -1,2 +1,2 @@
-# LoginRegisterAjaxOOP
-Login/Register system with AJAX, MySQL and PHP.
+# PHP-Login-System
+A sample login system with user registration
